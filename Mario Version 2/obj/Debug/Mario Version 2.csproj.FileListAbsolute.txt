@@ -1,0 +1,10 @@
+C:\Users\bbelabadi\source\repos\Mario Version 2\Mario Version 2\bin\Debug\Mario Version 2.exe.config
+C:\Users\bbelabadi\source\repos\Mario Version 2\Mario Version 2\bin\Debug\Mario Version 2.exe
+C:\Users\bbelabadi\source\repos\Mario Version 2\Mario Version 2\bin\Debug\Mario Version 2.pdb
+C:\Users\bbelabadi\source\repos\Mario Version 2\Mario Version 2\obj\Debug\Mario Version 2.csproj.AssemblyReference.cache
+C:\Users\bbelabadi\source\repos\Mario Version 2\Mario Version 2\obj\Debug\Mario_Version_2.Form1.resources
+C:\Users\bbelabadi\source\repos\Mario Version 2\Mario Version 2\obj\Debug\Mario_Version_2.Properties.Resources.resources
+C:\Users\bbelabadi\source\repos\Mario Version 2\Mario Version 2\obj\Debug\Mario Version 2.csproj.GenerateResource.cache
+C:\Users\bbelabadi\source\repos\Mario Version 2\Mario Version 2\obj\Debug\Mario Version 2.csproj.CoreCompileInputs.cache
+C:\Users\bbelabadi\source\repos\Mario Version 2\Mario Version 2\obj\Debug\Mario Version 2.exe
+C:\Users\bbelabadi\source\repos\Mario Version 2\Mario Version 2\obj\Debug\Mario Version 2.pdb

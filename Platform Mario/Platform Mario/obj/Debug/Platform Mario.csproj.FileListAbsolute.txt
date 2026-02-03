@@ -1,0 +1,10 @@
+C:\Users\bbelabadi\source\repos\Pong Game\Platform Mario\Platform Mario\bin\Debug\Platform Mario.exe.config
+C:\Users\bbelabadi\source\repos\Pong Game\Platform Mario\Platform Mario\bin\Debug\Platform Mario.exe
+C:\Users\bbelabadi\source\repos\Pong Game\Platform Mario\Platform Mario\bin\Debug\Platform Mario.pdb
+C:\Users\bbelabadi\source\repos\Pong Game\Platform Mario\Platform Mario\obj\Debug\Platform Mario.csproj.AssemblyReference.cache
+C:\Users\bbelabadi\source\repos\Pong Game\Platform Mario\Platform Mario\obj\Debug\Platform_Mario.PlatformerV1.resources
+C:\Users\bbelabadi\source\repos\Pong Game\Platform Mario\Platform Mario\obj\Debug\Platform_Mario.Properties.Resources.resources
+C:\Users\bbelabadi\source\repos\Pong Game\Platform Mario\Platform Mario\obj\Debug\Platform Mario.csproj.GenerateResource.cache
+C:\Users\bbelabadi\source\repos\Pong Game\Platform Mario\Platform Mario\obj\Debug\Platform Mario.csproj.CoreCompileInputs.cache
+C:\Users\bbelabadi\source\repos\Pong Game\Platform Mario\Platform Mario\obj\Debug\Platform Mario.exe
+C:\Users\bbelabadi\source\repos\Pong Game\Platform Mario\Platform Mario\obj\Debug\Platform Mario.pdb
