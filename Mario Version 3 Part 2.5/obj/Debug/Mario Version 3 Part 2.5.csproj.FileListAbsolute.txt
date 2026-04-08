@@ -1,0 +1,10 @@
+C:\Users\bbelabadi\source\repos\Mario Version 3 Part 2.5\Mario Version 3 Part 2.5\bin\Debug\Mario Version 3 Part 2.5.exe.config
+C:\Users\bbelabadi\source\repos\Mario Version 3 Part 2.5\Mario Version 3 Part 2.5\bin\Debug\Mario Version 3 Part 2.5.exe
+C:\Users\bbelabadi\source\repos\Mario Version 3 Part 2.5\Mario Version 3 Part 2.5\bin\Debug\Mario Version 3 Part 2.5.pdb
+C:\Users\bbelabadi\source\repos\Mario Version 3 Part 2.5\Mario Version 3 Part 2.5\obj\Debug\Mario Version 3 Part 2.5.csproj.AssemblyReference.cache
+C:\Users\bbelabadi\source\repos\Mario Version 3 Part 2.5\Mario Version 3 Part 2.5\obj\Debug\Mario_Version_3_Part_2._5.Form1.resources
+C:\Users\bbelabadi\source\repos\Mario Version 3 Part 2.5\Mario Version 3 Part 2.5\obj\Debug\Mario_Version_3_Part_2._5.Properties.Resources.resources
+C:\Users\bbelabadi\source\repos\Mario Version 3 Part 2.5\Mario Version 3 Part 2.5\obj\Debug\Mario Version 3 Part 2.5.csproj.GenerateResource.cache
+C:\Users\bbelabadi\source\repos\Mario Version 3 Part 2.5\Mario Version 3 Part 2.5\obj\Debug\Mario Version 3 Part 2.5.csproj.CoreCompileInputs.cache
+C:\Users\bbelabadi\source\repos\Mario Version 3 Part 2.5\Mario Version 3 Part 2.5\obj\Debug\Mario Version 3 Part 2.5.exe
+C:\Users\bbelabadi\source\repos\Mario Version 3 Part 2.5\Mario Version 3 Part 2.5\obj\Debug\Mario Version 3 Part 2.5.pdb
